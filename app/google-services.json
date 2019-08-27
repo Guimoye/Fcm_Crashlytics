@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20368659951",
+    "firebase_url": "https://examples-499f8.firebaseio.com",
+    "project_id": "examples-499f8",
+    "storage_bucket": "examples-499f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20368659951:android:bf6acd6f403f48d1",
+        "android_client_info": {
+          "package_name": "pe.com.hacom.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20368659951-an6p7ntcv2h8m7cinkq08tsntdev8sus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSd19H_1AdgCdqVl-lZKzReRakKGluBBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20368659951-an6p7ntcv2h8m7cinkq08tsntdev8sus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
